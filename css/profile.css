@@ -1,0 +1,13 @@
+body {
+    overflow: auto;
+    background: #000000 url(https://images.unsplash.com/photo-1489844097929-c8d5b91c456e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80) no-repeat left top;
+    background-size: cover;
+       
+}
+
+body {
+    letter-spacing: 2px;
+    text-align: center;
+    line-height: 2.3;
+
+}
